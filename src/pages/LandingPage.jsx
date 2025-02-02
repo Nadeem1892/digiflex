@@ -1,6 +1,5 @@
 import Header from "../components/Header";
 import Section from "../components/Section";
-import Button from "../components/Button";
 import { FaLaptopCode } from "react-icons/fa6";
 import About from "../components/About";
 import Projects from "../components/Projects";
